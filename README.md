@@ -1,7 +1,7 @@
 <!-- Youssef Mohamed Morsy — GitHub profile README -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:161b22,100:30363d&text=Youssef%20Mohamed%20Morsy&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Software%20Engineer&descAlignY=58&descSize=20&descColor=8b949e" width="100%" />
+  <img src="https://raw.githubusercontent.com/Youssef-Mohamed0/Youssef-Mohamed0/main/banner.svg" width="100%" />
 </div>
 
 <div align="center">
@@ -92,5 +92,3 @@ I like understanding what a model is actually doing, so I work through the math 
 <div align="center">
   <sub>Let's build something together. Reach me at <a href="mailto:youssef.mohamed.khirala@gmail.com">youssef.mohamed.khirala@gmail.com</a></sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,50:161b22,100:30363d&section=footer" width="100%" />
